@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>262488980065-1qjo7kobaek19d4cml16cdko50furufk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.262488980065-1qjo7kobaek19d4cml16cdko50furufk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBljWbUrtVFncJddLOpkx-7oAJhaoIGhEU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>262488980065</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.leaveManagement</string>
+	<key>PROJECT_ID</key>
+	<string>leave-mangement2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>leave-mangement2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:262488980065:ios:265455c875c3531c840820</string>
+</dict>
+</plist>

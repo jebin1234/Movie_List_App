@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "262488980065",
+    "project_id": "leave-mangement2",
+    "storage_bucket": "leave-mangement2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262488980065:android:4f5ef597ff232bbe840820",
+        "android_client_info": {
+          "package_name": "com.example.leave_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262488980065-ggqom9mnj4jrl1cku9t78f2vhn3i6907.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMR9XJlvqP3X6RnZ00jw0ZXVWfl-ODovE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262488980065-ggqom9mnj4jrl1cku9t78f2vhn3i6907.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262488980065-1qjo7kobaek19d4cml16cdko50furufk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.leaveManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
